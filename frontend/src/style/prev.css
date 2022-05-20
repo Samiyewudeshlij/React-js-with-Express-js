@@ -1,0 +1,9 @@
+.list_container{
+    width: 700px;
+    margin-left: 20px;
+    background-color: rgb(39, 38, 38);
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

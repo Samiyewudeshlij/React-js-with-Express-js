@@ -1,0 +1,22 @@
+.empty{
+    width: 150px;
+    height: 150px;
+    border: 4px solid rgb(46, 201, 248);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(46, 201, 248);
+    font-size: 60px;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(155, 151, 151);
+}
